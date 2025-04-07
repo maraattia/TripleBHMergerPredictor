@@ -10,8 +10,8 @@ authors:
 title: "Triple Black Hole Merger Predictor"
 version: 1.0.0
 date-released: 2025-04-07
-doi: xxx
-url: "https://github.com/maraattia/TripleBHMergerPredictor"
+doi: 10.5281/zenodo.15167208
+url: "https://doi.org/10.5281/zenodo.15167208"
 repository-code: "https://github.com/maraattia/TripleBHMergerPredictor"
 license: BSD-3-Clause
 references:

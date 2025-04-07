@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15167208.svg)](https://doi.org/10.5281/zenodo.15167208)
+
 # Triple Black Hole Merger Predictor
 
 This repository contains the implementation of a neural network model for predicting mergers in hierarchical triple black hole systems, as described in Attia & Sibony (2025). The model was trained on ~15 million secular simulations performed with a modified version of the [JADE](https://github.com/JADE-Exoplanets/JADE) secular code.
