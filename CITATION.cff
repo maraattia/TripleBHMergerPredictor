@@ -8,7 +8,7 @@ authors:
     given-names: "Y."
     orcid: "https://orcid.org/0000-0002-7829-776X"
 title: "Triple Black Hole Merger Predictor"
-version: 1.0.0
+version: 1.0.1
 date-released: 2025-04-07
 doi: 10.5281/zenodo.15167208
 url: "https://doi.org/10.5281/zenodo.15167208"
