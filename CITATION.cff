@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Attia"
+    given-names: "M."
+    orcid: "https://orcid.org/0000-0002-7971-7439"
+  - family-names: "Sibony"
+    given-names: "Y."
+    orcid: "https://orcid.org/0000-0002-7829-776X"
+title: "Triple Black Hole Merger Predictor"
+version: 1.0.0
+date-released: 2025-04-07
+doi: xxx
+url: "https://github.com/maraattia/TripleBHMergerPredictor"
+repository-code: "https://github.com/maraattia/TripleBHMergerPredictor"
+license: BSD-3-Clause
+references:
+  - type: article
+    authors:
+      - family-names: "Attia"
+        given-names: "M."
+      - family-names: "Sibony"
+        given-names: "Y."
+    title: "Exploring the Parameter Space of Hierarchical Triple Black Hole Systems"
+    journal: "Astronomy & Astrophysics"
+    year: 2025
+    doi: xxx
+    url: "https://doi.org/xxx"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Attia"
+      given-names: "M."
+    - family-names: "Sibony"
+      given-names: "Y."
+  title: "Exploring the Parameter Space of Hierarchical Triple Black Hole Systems"
+  journal: "Astronomy & Astrophysics"
+  year: 2025
+  doi: xxx
+  url: "https://doi.org/xxx"
+abstract: >
+  This software provides a neural network model for predicting mergers in hierarchical 
+  triple black hole systems. The model was trained on ~15 million simulations performed 
+  with a modified version of the JADE secular code that includes gravitational wave 
+  emission. It enables rapid prediction of merger outcomes for triple black hole systems 
+  characterized by seven parameters: inner binary masses, outer black hole mass, inner 
+  and outer semi-major axes, outer orbit eccentricity, and mutual inclination.
+keywords:
+  - black holes
+  - gravitational waves
+  - hierarchical triple systems
+  - stellar dynamics
+  - machine learning
+  - neural networks
+  - astrophysics
