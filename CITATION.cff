@@ -21,11 +21,11 @@ references:
         given-names: "M."
       - family-names: "Sibony"
         given-names: "Y."
-    title: "Exploring the Parameter Space of Hierarchical Triple Black Hole Systems"
+    title: "Exploring the parameter space of hierarchical triple black hole systems"
     journal: "Astronomy & Astrophysics"
     year: 2025
-    doi: xxx
-    url: "https://doi.org/xxx"
+    doi: 10.1051/0004-6361/202555165
+    url: "https://doi.org/10.1051/0004-6361/202555165"
 preferred-citation:
   type: article
   authors:
@@ -33,11 +33,11 @@ preferred-citation:
       given-names: "M."
     - family-names: "Sibony"
       given-names: "Y."
-  title: "Exploring the Parameter Space of Hierarchical Triple Black Hole Systems"
+  title: "Exploring the parameter space of hierarchical triple black hole systems"
   journal: "Astronomy & Astrophysics"
   year: 2025
-  doi: xxx
-  url: "https://doi.org/xxx"
+  doi: 10.1051/0004-6361/202555165
+  url: "https://doi.org/10.1051/0004-6361/202555165"
 abstract: >
   This software provides a neural network model for predicting mergers in hierarchical 
   triple black hole systems. The model was trained on ~15 million simulations performed 
