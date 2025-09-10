@@ -2,7 +2,7 @@
 
 # Triple Black Hole Merger Predictor
 
-This repository contains the implementation of a neural network model for predicting mergers in hierarchical triple black hole systems, as described in Attia & Sibony (2025). The model was trained on ~15 million secular simulations performed with a modified version of the [JADE](https://github.com/JADE-Exoplanets/JADE) secular code.
+This repository contains the implementation of a neural network model for predicting mergers in hierarchical triple black hole systems, as described in [Attia & Sibony (2025)](https://doi.org/10.1051/0004-6361/202555165). The model was trained on ~15 million secular simulations performed with a modified version of the [JADE](https://github.com/JADE-Exoplanets/JADE) secular code.
 
 ## Overview
 
@@ -125,7 +125,7 @@ The model achieves 95% overall accuracy, with 99.7% accuracy for high-confidence
 If you use this code in your research, please cite:
 
 ```
-Attia, M., & Sibony, Y. (2025). Exploring the Parameter Space of Hierarchical Triple Black Hole Systems. Astronomy & Astrophysics.
+Attia, M., & Sibony, Y. (2025). Exploring the parameter space of hierarchical triple black hole systems. Astronomy & Astrophysics, 700, A35.
 ```
 
 If you need to reference this repository, please refer to the [CITATION](CITATION.cff) file.
